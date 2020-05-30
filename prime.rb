@@ -1,3 +1,3 @@
-# Add  code here!
 def prime?()
+  binding.pry
 end
