@@ -1,3 +1,4 @@
 def prime?(number)
-  binding.pry
+
 end
+  binding.pry
